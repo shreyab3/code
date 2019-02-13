@@ -1,6 +1,7 @@
 //program to creat the pattern and dynamic memory allocation
 #include <stdio.h>
 #include <stdlib.h>
+#include<math.h>
 int** myfunc(void);//storing of the array in heap 
 int main()
 {
